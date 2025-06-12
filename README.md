@@ -66,6 +66,12 @@
   - [1234](https://codehawks.cyfrin.io/c/2025-02-raac/s/1234)
   - [1080](https://codehawks.cyfrin.io/c/2025-02-raac/s/1080)
   - [757](https://codehawks.cyfrin.io/c/2025-02-raac/s/757)
+ 
+
+  ### 📘 Sherlock Submissions
+ 
+- **Plaza Finance (2024-12)**
+  - [Issue #117 — Critical bug in swap execution logic](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/117)
 
 ---
 
