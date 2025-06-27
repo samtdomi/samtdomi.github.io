@@ -38,41 +38,68 @@ These consistent top-tier finishes reflect my ability to compete at the highest 
 | 4  | Benqi Ignite   | CodeHawks  | 🟧 Medium  | Solidity | #13 Finish   | [Link](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm67961lx000591sw8de4loom)   |
 
 ---
+
 ## 🔍 Audit Findings
 
-A showcase of valid vulnerability reports across top platforms including Code4rena, CodeHawks, and Sherlock.
+A showcase of valid vulnerability reports across top platforms including Code4rena, CodeHawks, and Sherlock. Highlighting the diversity of protocols and findings - showcasing my ability to adapt to different types of DeFi protocols and logic, and using that adaptive ability and deep understanding of the protocol to identify unique vulnerabilities in each of them.
 
 ---
 
-### 📘 Code4rena
+### 📘 Code4rena Submissions
 
-| Protocol       | Findings |
-|----------------|----------|
-| **SecondSwap** | [S-434](https://code4rena.com/audits/2024-12-secondswap/submissions/S-434)<br>[S-247](https://code4rena.com/audits/2024-12-secondswap/submissions/S-247)<br>[S-439](https://code4rena.com/audits/2024-12-secondswap/submissions/S-439) |
-| **IQ.AI**      | [S-333](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-333)<br>[S-353](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-353)<br>[S-330](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-330)<br>[S-325](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-325)<br>[S-334](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-334) |
-| **Liquid Ron** | [S-101](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-101)<br>[S-195](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-195)<br>[S-184](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-184) |
-| **Silo Finance** | [S-540](https://code4rena.com/audits/2025-03-silo-finance/submissions/S-540) |
-| **Kinetiq**    | [S-611](https://code4rena.com/audits/2025-04-kinetiq/submissions/S-611)<br>[S-638](https://code4rena.com/audits/2025-04-kinetiq/submissions/S-638)<br>[S-610](https://code4rena.com/audits/2025-04-kinetiq/submissions/S-610)<br>[S-637](https://code4rena.com/audits/2025-04-kinetiq/submissions/S-637) |
+- **SecondSwap (2024-12)**
+  - [S-434](https://code4rena.com/audits/2024-12-secondswap/submissions/S-434)
+  - [S-247](https://code4rena.com/audits/2024-12-secondswap/submissions/S-247)
+  - [S-439](https://code4rena.com/audits/2024-12-secondswap/submissions/S-439)
+- **IQ.AI (2025-01)**
+  - [S-333](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-333)
+  - [S-353](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-353)
+  - [S-330](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-330)
+  - [S-325](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-325)
+  - [S-334](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-334)
+- **Liquid Ron (2025-01)**
+  - [S-101](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-101)
+  - [S-195](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-195)
+  - [S-184](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-184)
+- **Silo Finance (2025-03)**
+  - [S-540](https://code4rena.com/audits/2025-03-silo-finance/submissions/S-540)
+- **Kinetiq (2025-04)**
+  - [S-611](https://code4rena.com/audits/2025-04-kinetiq/submissions/S-611)
+  - [S-638](https://code4rena.com/audits/2025-04-kinetiq/submissions/S-638)
+  - [S-610](https://code4rena.com/audits/2025-04-kinetiq/submissions/S-610)
+  - [S-637](https://code4rena.com/audits/2025-04-kinetiq/submissions/S-637)
+
+### 📕 CodeHawks Submissions
+
+- **Alchemix (2024-12)**
+  - [cm4udltrp0005looy0mep3dxf](https://codehawks.cyfrin.io/c/2024-12-alchemix/s/cm4udltrp0005looy0mep3dxf)
+  - [135](https://codehawks.cyfrin.io/c/2024-12-alchemix/s/135)
+- **Zaros Part 2 (2025-01)**
+  - [125](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/125)
+  - [121](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/121)
+- **Benqi (2025-01)**
+  - [cm67961lx000591sw8de4loom](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm67961lx000591sw8de4loom)
+  - [cm679ptj10005ckuls5non04y](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm679ptj10005ckuls5non04y)
+- **Gamma (2025-02)**
+  - [477](https://codehawks.cyfrin.io/c/2025-02-gamma/s/477)
+- **RAAC (2025-02)**
+  - [349](https://codehawks.cyfrin.io/c/2025-02-raac/s/349)
+  - [346](https://codehawks.cyfrin.io/c/2025-02-raac/s/346)
+  - [343](https://codehawks.cyfrin.io/c/2025-02-raac/s/343)
+  - [741](https://codehawks.cyfrin.io/c/2025-02-raac/s/741)
+  - [592](https://codehawks.cyfrin.io/c/2025-02-raac/s/592)
+  - [436](https://codehawks.cyfrin.io/c/2025-02-raac/s/436)
+  - [1234](https://codehawks.cyfrin.io/c/2025-02-raac/s/1234)
+  - [1080](https://codehawks.cyfrin.io/c/2025-02-raac/s/1080)
+  - [757](https://codehawks.cyfrin.io/c/2025-02-raac/s/757)
+ 
+
+  ### 📘 Sherlock Submissions
+ 
+- **Plaza Finance (2024-12)**
+  - [Issue #117 — Critical bug in swap execution logic](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/117)
 
 ---
-
-### 📕 CodeHawks
-
-| Protocol         | Findings |
-|------------------|----------|
-| **Alchemix**     | [cm4udltrp0005looy0mep3dxf](https://codehawks.cyfrin.io/c/2024-12-alchemix/s/cm4udltrp0005looy0mep3dxf)<br>[135](https://codehawks.cyfrin.io/c/2024-12-alchemix/s/135) |
-| **Zaros Part 2** | [125](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/125)<br>[121](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/s/121) |
-| **Benqi Ignite** | [cm67961lx000591sw8de4loom](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm67961lx000591sw8de4loom)<br>[cm679ptj10005ckuls5non04y](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm679ptj10005ckuls5non04y) |
-| **Gamma**        | [477](https://codehawks.cyfrin.io/c/2025-02-gamma/s/477) |
-| **RAAC**         | [349](https://codehawks.cyfrin.io/c/2025-02-raac/s/349)<br>[346](https://codehawks.cyfrin.io/c/2025-02-raac/s/346)<br>[343](https://codehawks.cyfrin.io/c/2025-02-raac/s/343)<br>[741](https://codehawks.cyfrin.io/c/2025-02-raac/s/741)<br>[592](https://codehawks.cyfrin.io/c/2025-02-raac/s/592)<br>[436](https://codehawks.cyfrin.io/c/2025-02-raac/s/436)<br>[1234](https://codehawks.cyfrin.io/c/2025-02-raac/s/1234)<br>[1080](https://codehawks.cyfrin.io/c/2025-02-raac/s/1080)<br>[757](https://codehawks.cyfrin.io/c/2025-02-raac/s/757) |
-
----
-
-### 📘 Sherlock
-
-| Protocol         | Findings |
-|------------------|----------|
-| **Plaza Finance** | [Issue #117 — Critical bug in swap execution logic](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/117) |
 
 ---
 
