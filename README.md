@@ -16,6 +16,12 @@
 
 ---
 
+## 🏆 Highlight: Top 10 Finish — Superfluid Locker System (Sherlock)
+
+> Secured **#8 overall** in the Superfluid Locker System audit contest on Sherlock (June 2025), contributing **one of the top findings** (Issue #130).
+
+---
+
 ## 🏆 Highlight: 3x Top 15 Finishes
 
 > Consistently placed in the **Top 15** in multiple high-profile audits on Code4rena, Sherlock, and CodeHawks.
@@ -36,6 +42,7 @@ These consistent top-tier finishes reflect my ability to compete at the highest 
 | 2  | IQ AI          | Sherlock   | 🟥 High    | Solidity | #12 Finish   | [Link](https://code4rena.com/audits/2025-01-iq-ai/submissions/S-333)              |
 | 3  | Liquid Ron     | Code4rena  | 🟧 Medium  | Solidity | #12 Finish   | [Link](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-101)         |
 | 4  | Benqi Ignite   | CodeHawks  | 🟧 Medium  | Solidity | #13 Finish   | [Link](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm67961lx000591sw8de4loom)   |
+| 5  | Superfluid Locker| Sherlock  | 🟥 High   | Solidity  | #8 Finish     | [Link](https://github.com/sherlock-audit/2025-06-superfluid-locker-system-judging/issues/130) |
 
 ---
 
