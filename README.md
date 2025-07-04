@@ -4,7 +4,7 @@
 ### 👤 Samuel Troydomi (@samtdomi on GitHub)
 
 - **Code4rena Profile:** [https://code4rena.com/@Samueltroydomi](https://code4rena.com/@Samueltroydomi)
-- **Sherlock Contributions:** [Sherlock Finding](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/117)
+- **Sherlock Contributions:** [https://audits.sherlock.xyz/watson/SamuelTroyDomi](https://audits.sherlock.xyz/watson/SamuelTroyDomi)
 - **GitHub:** [https://github.com/samtdomi](https://github.com/samtdomi)
 - X : [https://X.com/@fresco_io](https://X.com/@fresco_io)
 
