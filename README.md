@@ -46,6 +46,15 @@ These consistent top-tier finishes reflect my ability to compete at the highest 
 
 ---
 
+## Private Engagements
+All undisclosed engagements can be backed with a reference, in case of interest
+
+| Date        | Protocol    | Format                                 |
+|-------------|-------------|----------------------------------------|
+| June 2025   | Wild Protocol | Assistant Security Researcher w/ Lead Auditor |
+
+---
+
 ## 🔍 Audit Findings
 
 A showcase of valid vulnerability reports across top platforms including Code4rena, CodeHawks, and Sherlock. Highlighting the diversity of protocols and findings - showcasing my ability to adapt to different types of DeFi protocols and logic, and using that adaptive ability and deep understanding of the protocol to identify unique vulnerabilities in each of them.
