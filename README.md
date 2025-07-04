@@ -1,7 +1,7 @@
 
 # 🛡️ Web3 Smart Contract Security Portfolio
 
-### 👤 Samuel Troydomi (@samtdomi on GitHub)
+### 👤 Samuel Troy Dominguez (@samtdomi on GitHub)
 
 - **Code4rena Profile:** [https://code4rena.com/@Samueltroydomi](https://code4rena.com/@Samueltroydomi)
 - **Sherlock Contributions:** [https://audits.sherlock.xyz/watson/SamuelTroyDomi](https://audits.sherlock.xyz/watson/SamuelTroyDomi)
