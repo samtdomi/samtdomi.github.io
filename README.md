@@ -130,7 +130,7 @@ A showcase of valid vulnerability reports across top platforms including Code4re
 
 ## 📫 Contact
 
-Feel free to reach out via GitHub or through the respective audit platforms linked above.
+Feel free to reach out via X (account linked above) or email : samueltroydomi@gmail.com
 
 ---
 
