@@ -46,12 +46,23 @@ These consistent top-tier finishes reflect my ability to compete at the highest 
 
 ---
 
-## Private Engagements
+## Private Audits
+
 All undisclosed engagements can be backed with a reference, in case of interest
 
-| Date        | Protocol    | Format                                 |
-|-------------|-------------|----------------------------------------|
-| June 2025   | Wild Protocol | Assistant Security Researcher w/ Lead Auditor |
+| Date           | Audit Company     | Protocol / Project       | Role    |
+| --------------| ----------------- | ------------------------ | ------- |
+| July 2025     | Kann Audits        | Wild Protocol            | ASR
+| July 2025      | Radcipher         | Bify Protocol            | ASR     |
+| July 2025      | Shieldfy Security | Leverage / Bond Protocol | ASR     |
+| July 2025      | 33 Audits         | Torus-Finance            | ASR     |
+| August 2025    | 33 Audits         | Torus-NFT                | ASR |
+| August 2025    | 33 Audits         | Unity                    | ASR     |
+| August 2025    | 33 Audits         | ITRY-Invertor            | ASR     |
+| September 2025 | 33 Audits         | @kakondu VII Finance     | ASR     |
+| September 2025 | 33 Audits         | Plazm                    | Lead SR |
+| September 2025 | 33 Audits         | Torus-NFT #2             | Lead SR |
+
 
 ---
 
