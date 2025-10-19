@@ -60,9 +60,9 @@ All undisclosed engagements can be backed with a reference, in case of interest
 | August 2025     | 33 Audits         | Torus-NFT                              | ASR     |
 | August 2025     | 33 Audits         | ITRY-Invertor                          | ASR     |
 | September 2025  | 33 Audits         | @kakondu VII Finance                   | ASR     |
-| September 2025  | 33 Audits         | Plazm ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/plazm_audit_report.pdf)) | Lead SR |
-| September 2025  | 33 Audits         | Torus-NFT #2                           | Lead SR |
-
+| September 2025  | 33 Audits         | Plazm ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/plazm_audit_report.pdf)) | ASR |
+| September 2025  | 33 Audits         | Torus-NFT #2                           | ASR |
+| October 2025    | 33 Audits         | Coinwell Liquity                       | ASR |
 
 ---
 
