@@ -52,7 +52,7 @@ All undisclosed engagements can be backed with a reference, in case of interest
 
 | Date           | Audit Company     | Protocol / Project                     | Role    |
 | --------------- | ----------------- | -------------------------------------- | ------- |
-| July 2025       | Kann Audits       | Wild Protocol                          | ASR     |
+| July 2025       | Kann Audits       | Wild Protocol  ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/Wild%20Protocol.pdf)                      | ASR     |
 | July 2025       | Radcipher         | Bify Protocol ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/2025-07-19-Bify-Audit-Report.pdf)) | ASR     |
 | July 2025       | Shieldfy Security | Leverage / Bond Protocol               | ASR     |
 | July 2025       | 33 Audits         | Torus-Finance ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/torus_audit_report.pdf)) | ASR     |
