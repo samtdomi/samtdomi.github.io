@@ -10,6 +10,29 @@
 
 ---
 
+## Private Audits
+
+All undisclosed engagements can be backed with a reference, in case of interest
+
+| Date           | Audit Company     | Protocol / Project                     | Role    |
+| --------------- | ----------------- | -------------------------------------- | ------- |
+| July 2025       | Kann Audits       | Wild Protocol  ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/Wild%20Protocol.pdf))                      | ASR     |
+| July 2025       | Radcipher         | Bify Protocol ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/2025-07-19-Bify-Audit-Report.pdf)) | ASR     |
+| July 2025       | Shieldfy Security | Leverage / Bond Protocol               | ASR     |
+| July 2025       | 33 Audits         | Torus-Finance ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/torus_audit_report.pdf)) | ASR     |
+| August 2025     | 33 Audits         | Unity ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/unity_audit_report.pdf)) | ASR     |
+| August 2025     | 33 Audits         | Torus-NFT                              | ASR     |
+| August 2025     | 33 Audits         | ITRY-Invertor                          | ASR     |
+| September 2025  | 33 Audits         | @kakondu VII Finance                   | ASR     |
+| September 2025  | 33 Audits         | Plazm ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/plazm_audit_report.pdf)) | ASR |
+| September 2025  | Shieldfy Security | LaunchPad                              | ASR |
+| September 2025  | 33 Audits         | Torus-NFT #2                           | ASR |
+| October 2025    | 33 Audits         | Coinwell Liquity                       | ASR |
+| October 2025    | 33 Audits         | P Eazy Mode                            | ASR |
+| November 2025   | 33 Audits         | Switch-X                               | ASR |
+
+---
+
 ## 🏆 Highlight: Top 10 Finish — Code4rena
 
 > Finished **#7 overall** in the Silo Finance audit on Code4rena.
@@ -43,26 +66,6 @@ These consistent top-tier finishes reflect my ability to compete at the highest 
 | 3  | Liquid Ron     | Code4rena  | 🟧 Medium  | Solidity | #12 Finish   | [Link](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-101)         |
 | 4  | Benqi Ignite   | CodeHawks  | 🟧 Medium  | Solidity | #13 Finish   | [Link](https://codehawks.cyfrin.io/c/2025-01-benqi/s/cm67961lx000591sw8de4loom)   |
 | 5  | Superfluid Locker| Sherlock  | 🟥 High   | Solidity  | #8 Finish     | [Link](https://github.com/sherlock-audit/2025-06-superfluid-locker-system-judging/issues/130) |
-
----
-
-## Private Audits
-
-All undisclosed engagements can be backed with a reference, in case of interest
-
-| Date           | Audit Company     | Protocol / Project                     | Role    |
-| --------------- | ----------------- | -------------------------------------- | ------- |
-| July 2025       | Kann Audits       | Wild Protocol  ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/Wild%20Protocol.pdf))                      | ASR     |
-| July 2025       | Radcipher         | Bify Protocol ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/2025-07-19-Bify-Audit-Report.pdf)) | ASR     |
-| July 2025       | Shieldfy Security | Leverage / Bond Protocol               | ASR     |
-| July 2025       | 33 Audits         | Torus-Finance ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/torus_audit_report.pdf)) | ASR     |
-| August 2025     | 33 Audits         | Unity ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/unity_audit_report.pdf)) | ASR     |
-| August 2025     | 33 Audits         | Torus-NFT                              | ASR     |
-| August 2025     | 33 Audits         | ITRY-Invertor                          | ASR     |
-| September 2025  | 33 Audits         | @kakondu VII Finance                   | ASR     |
-| September 2025  | 33 Audits         | Plazm ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/plazm_audit_report.pdf)) | ASR |
-| September 2025  | 33 Audits         | Torus-NFT #2                           | ASR |
-| October 2025    | 33 Audits         | Coinwell Liquity                       | ASR |
 
 ---
 
