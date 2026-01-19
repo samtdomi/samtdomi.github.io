@@ -29,7 +29,8 @@ All undisclosed engagements can be backed with a reference, in case of interest
 | September 2025  | 33 Audits         | Torus-NFT #2                           | ASR |
 | October 2025    | 33 Audits         | Coinwell Liquity                       | ASR |
 | October 2025    | 33 Audits         | P Eazy Mode                            | ASR |
-| November 2025   | 33 Audits         | Switch-X                               | ASR |
+| November 2025   | 33 Audits         | Switch-X ([Link] (https://github.com/samtdomi/samtdomi.github.io/blob/main/SwitchX-audit-report.pdf))                                | ASR |
+| December 2025   | 33 Audits         | FortuneFi                               | ASR |
 
 ---
 
