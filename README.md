@@ -14,8 +14,20 @@
 
 All undisclosed engagements can be backed with a reference, in case of interest.
 
-**Highlight:** 
-The `Liquid Launch` audit was completed on the same scope as a `Tier 1` company led audit, but my team got assigned the audit 1 week after the `Tier 1` company completed theirs. I uncovered a crucially high impact finding that required a complete architectural change of the protocol, that was missed by the `Tier 1` company, as well as multiple other impactful findings that were missed. They came to us because they wanted an additional audit to ensure they were secure before deployment. Now, the protocol has successfully deployed securely. I take a lot of pride in this contribution as 33 audits and I were trusted as the final defense before deployment, and despite having just been audited by the respected `Tier 1` company, I found an issue so severe that it saved the reputation of the protocol and its users funds, and was able to see the successful deployment of the protocol. 
+
+### Highlight — Liquid Launch
+
+The **Liquid Launch** audit was conducted on the exact same scope as a prior audit performed by a Tier-1 security firm.  
+Our team was engaged one week after their review had concluded, as the protocol team sought an additional independent assessment before deployment.
+
+I uncovered a crucial high-impact finding that required a complete architectural change of the protocol — a finding that was missed in the prior review — as well as multiple other impactful issues.
+
+They came to us because they wanted an additional audit to ensure they were secure before deployment.  
+
+Now, the protocol has successfully deployed securely.
+
+I take a lot of pride in this contribution. Out of 33 audits, I was trusted as the final line of defense before deployment. Despite having just been audited by a respected `Tier 1` company, I identified an issue severe enough to require architectural changes — protecting the protocol’s reputation and user funds — and saw the protocol deploy successfully afterward.
+
 
 | Date           | Audit Company     | Protocol / Project                     | Role    |
 | --------------- | ----------------- | -------------------------------------- | ------- |
