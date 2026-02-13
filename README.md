@@ -12,7 +12,8 @@
 
 ## Private Audits
 
-All undisclosed engagements can be backed with a reference, in case of interest
+All undisclosed engagements can be backed with a reference, in case of interest.
+Highlight: Liquid Launch audit was completed on the same scope as a `Tier 1` company led audit, but my team got assigned the audit 1 week after the `Tier 1` company completed theirs. I uncovered a crucially high impact finding that required a complete architectural change of the protocol, that was missed by the `Tier 1` company, as well as multiple other impactful findings that were missed. They came to us because they wanted an additional audit to ensure they were secure before deployment. Now, the protocol has successfully deployed securely. I take a lot of pride in this contribution as 33 audits and I were trusted as the final defense before deployment, and despite having just been audited by the respected `Tier 1` company, I found an issue so severe that it saved the reputation of the protocol and its users funds, and was able to see the successful deployment of the protocol. 
 
 | Date           | Audit Company     | Protocol / Project                     | Role    |
 | --------------- | ----------------- | -------------------------------------- | ------- |
@@ -31,6 +32,7 @@ All undisclosed engagements can be backed with a reference, in case of interest
 | October 2025    | 33 Audits         | P Eazy Mode                            | ASR |
 | November 2025   | 33 Audits         | Switch-X ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/SwitchX-audit-report.pdf))                                | ASR |
 | December 2025   | 33 Audits         | FortuneFi                               | ASR |
+| January 2026    | 33 Audits         | Liquid Launch                           | ASR |
 
 ---
 
