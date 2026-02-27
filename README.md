@@ -14,6 +14,10 @@
 
 All undisclosed engagements can be backed with a reference, in case of interest.
 
+**Highlight - Cyfrin :**
+
+Multiple audits with Cyfrin, as a Senior Security Researcher 
+
 
 **Highlight - Liquid Launch:**
 
@@ -31,22 +35,24 @@ I take a lot of pride in this contribution as 33 audits and I were trusted as th
 
 | Date           | Audit Company     | Protocol / Project                     | Role    |
 | --------------- | ----------------- | -------------------------------------- | ------- |
-| July 2025       | Kann Audits       | Wild Protocol  ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/Wild%20Protocol.pdf))                      | ASR     |
-| July 2025       | Radcipher         | Bify Protocol ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/2025-07-19-Bify-Audit-Report.pdf)) | ASR     |
-| July 2025       | Shieldfy Security | Leverage / Bond Protocol               | ASR     |
-| July 2025       | 33 Audits         | Torus-Finance ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/torus_audit_report.pdf)) | ASR     |
-| August 2025     | 33 Audits         | Unity ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/unity_audit_report.pdf)) | ASR     |
-| August 2025     | 33 Audits         | Torus-NFT                              | ASR     |
-| August 2025     | 33 Audits         | ITRY-Invertor                          | ASR     |
-| September 2025  | 33 Audits         | @kakondu VII Finance                   | ASR     |
-| September 2025  | 33 Audits         | Plazm ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/plazm_audit_report.pdf)) | ASR |
-| September 2025  | Shieldfy Security | LaunchPad                              | ASR |
-| September 2025  | 33 Audits         | Torus-NFT #2                           | ASR |
-| October 2025    | 33 Audits         | Coinwell Liquity                       | ASR |
-| October 2025    | 33 Audits         | P Eazy Mode                            | ASR |
-| November 2025   | 33 Audits         | Switch-X ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/SwitchX-audit-report.pdf))                                | ASR |
-| December 2025   | 33 Audits         | FortuneFi                               | ASR |
-| January 2026    | 33 Audits         | Liquid Launch                           | ASR |
+| July 2025       | Kann Audits       | Wild Protocol  ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/Wild%20Protocol.pdf))                      | Sr. SR     |
+| July 2025       | Radcipher         | Bify Protocol ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/2025-07-19-Bify-Audit-Report.pdf)) | Sr. SR     |
+| July 2025       | Shieldfy Security | Leverage / Bond Protocol               | Sr. SR  |
+| July 2025       | 33 Audits         | Torus-Finance ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/torus_audit_report.pdf)) | Sr. SR     |
+| August 2025     | 33 Audits         | Unity ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/unity_audit_report.pdf)) | Sr. SR     |
+| August 2025     | 33 Audits         | Torus-NFT                              | Sr. SR  |
+| August 2025     | 33 Audits         | ITRY-Invertor                          | Sr. SR  |
+| September 2025  | 33 Audits         | @kakondu VII Finance                   | Sr. SR  |
+| September 2025  | 33 Audits         | Plazm ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/plazm_audit_report.pdf)) | Sr. SR |
+| September 2025  | Shieldfy Security | LaunchPad                               | Sr. SR |
+| September 2025  | 33 Audits         | Torus-NFT #2                            | Sr. SR |
+| October 2025    | 33 Audits         | Coinwell Liquity                        | Sr. SR|
+| October 2025    | 33 Audits         | P Eazy Mode                             | Sr. SR |
+| November 2025   | 33 Audits         | Switch-X ([Link](https://github.com/samtdomi/samtdomi.github.io/blob/main/SwitchX-audit-report.pdf))                                | Sr. SR |
+| December 2025   | 33 Audits         | FortuneFi                               | Sr. SR |
+| January 2026    | 33 Audits         | Liquid Launch                           | Sr. SR |
+| February 2026   | Cyfrin            | Probable (Prediction Market w/ Yield    | Sr. SR |
+| February 2026   | Cyfrin            | ETHCF                                   | Sr. SR |
 
 ---
 
